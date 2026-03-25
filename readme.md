@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/Aravindhan450"><img src="https://img.shields.io/badge/GitHub-Aravindhan450-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 	<a href="https://linkedin.com/in/aravindhan-boopathy-573948295/"><img src="https://img.shields.io/badge/LinkedIn-Aravindhan%20Boopathy-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 	<a href="mailto:aravinddhan404@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -23,14 +22,6 @@ Computer Science Engineering (AI & ML) undergraduate at SRM Institute of Science
 - Focused on performance optimization and practical system design
 - Comfortable working in fast-paced, collaborative environments
 
-## Education
-
-- SRM Institute of Science and Technology
-	- B.Tech, Computer Science Engineering (AI & ML)
-	- CGPA: 9.19
-- Everwin Group of Schools (Matric)
-	- Higher Secondary Certificate: 86%
-	- Secondary School Leaving Certificate: All Pass
 
 ## Technical Skills
 
@@ -63,9 +54,6 @@ Tech stack: Python, Pandas, Scikit-learn, APIs
 - Built an AI-powered resume analysis platform integrated with a LaTeX editor for real-time content optimization.
 - Designed user-focused workflows and structured logic to improve resume quality and formatting.
 
-<p align="center">
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ0N2YwN2I5YmM0Y2E2ZWEwY2M3NWE4Mjg4NjQ5NzA4OGQ4YjRmYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="350" alt="Machine learning animation" />
-</p>
 
 ## Internship Experience
 
