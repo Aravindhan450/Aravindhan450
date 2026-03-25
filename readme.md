@@ -78,22 +78,25 @@ June 11 - July 11, 2025
 	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhan450&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
 
-## 📬 Contact
+## 🌐 Connect With Me
 
 <p align="left">
 
+<a href="https://linkedin.com/in/aravindhan-boopathy-573948295/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+
 <a href="mailto:aravinddhan404@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
 </a>
 
 <a href="tel:+918056226928">
-  <img src="https://img.shields.io/badge/Phone-Call-blue?style=for-the-badge&logo=googlevoice&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=googlevoice&logoColor=white&labelColor=34A853"/>
 </a>
 
-<a href="https://linkedin.com/in/aravindhan-boopathy-573948295/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Aravindhan450">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 </a>
-
 
 </p>
 
