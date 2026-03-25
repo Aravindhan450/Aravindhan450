@@ -1,101 +1,109 @@
-# Hey there! 👋 I'm Aravindhan
+<!-- HERO SECTION -->
 
-<div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<h1 align="center">Hi 👋, I'm Aravindhan</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems;Full-Stack+Developer;Problem+Solver+%7C+Tech+Explorer" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/aravindhan-boopathy-573948295">
+    <img src="https://img.shields.io/badge/LinkedIn-Aravindhan-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="mailto:aravinddhan404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://github.com/Aravindhan450">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
-</div>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **[Your Title/Role]** with **[X years]** of experience in **[Your Core Expertise]**. I love building **[what you build]** that make a real impact. When I'm not coding, you'll find me **[your interests]**.
+🎓 B.Tech CSE (AI & ML) student with a strong academic record (CGPA 9.19)  
+🤖 Passionate about designing intelligent systems and data-driven applications  
+🌐 Skilled in building full-stack web platforms integrated with AI capabilities  
+⚡ Strong problem-solving mindset with focus on real-world impact  
 
-- 🔭 Currently working on **[Current Project/Focus]**
-- 💡 Interested in **[Technologies/Topics]**
-- 📚 Always learning and exploring new technologies
-- 🎯 Goal: **[Your professional goal]**
+- 🔭 Currently building AI-powered platforms & system design projects  
+- 🌱 Exploring distributed systems, scalable ML pipelines & product engineering  
+- 🎯 Goal: Become a top-tier AI Engineer / Software Engineer  
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+### Languages
+`Python` `JavaScript` `HTML` `CSS` `SCSS`
 
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+### Frameworks & Libraries
+`React` `REST APIs` `Scikit-learn`
 
-**Tools & Technologies:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+### Tools & Platforms
+`Git` `GitHub` `Docker` `Kubernetes` `Jupyter`
 
 ---
 
-## 🏆 Highlight Projects
+## 🧠 Highlight Projects
 
-### [Project Name 1](https://github.com/yourrepo)
-**[Brief Description]** - Built with **[Tech Stack]**
-- 🎯 **Achievement:** [Key accomplishment]
-- 📊 **Impact:** [Quantifiable result]
+### 🌫 Air Quality Determination & Weather Prediction  
+Machine Learning System  
 
-### [Project Name 2](https://github.com/yourrepo)
-**[Brief Description]** - Built with **[Tech Stack]**
-- 🎯 **Achievement:** [Key accomplishment]
-- 📊 **Impact:** [Quantifiable result]
+- Built predictive models using real-world datasets & API integrations  
+- Implemented preprocessing pipelines and performance evaluation  
+- Conducted comparative model analysis to improve accuracy  
 
-### [Project Name 3](https://github.com/yourrepo)
-**[Brief Description]** - Built with **[Tech Stack]**
-- 🎯 **Achievement:** [Key accomplishment]
-- 📊 **Impact:** [Quantifiable result]
+**Tech:** Python · Pandas · Scikit-learn · APIs  
 
 ---
 
-## 📈 GitHub Stats
+### 📄 AI Resume Analyzer with LaTeX Editor  
+AI Product + Developer Tool  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
-</div>
+- Designed an AI-driven resume evaluation engine  
+- Integrated structured LaTeX editing workflow  
+- Focused on usability, feedback logic & content optimisation  
 
----
-
-## 🎓 Experience
-
-**[Your Current/Recent Role]** @ [Company Name] | [Dates]
-- Achieved [accomplishment] by [action]
-- Led [team/project] resulting in [outcome]
-- Implemented [solution] that [impact]
-
-**[Previous Role]** @ [Company Name] | [Dates]
-- [Key responsibility and achievement]
-- [Key responsibility and achievement]
+**Tech:** Python · NLP Logic · Frontend UI  
 
 ---
 
-## 📫 Let's Connect
+## 🧪 Experience
 
-- **Portfolio:** [Your Portfolio Website]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** your.email@example.com
-- **Blog:** [Your Blog/Medium Profile]
+### Delivery Intern — Prodapt Solutions  
+June 2025 – July 2025  
+
+- Worked in cross-functional delivery teams  
+- Supported coordination in fast-paced execution environments  
+- Demonstrated ownership, adaptability & communication skills  
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Views">
-  
-  <p><sub>⭐ If you like my work, consider starring some of my repositories!</sub></p>
-</div>
+## 🏆 Achievements
+
+- UI/UX Hackathon — Built educational app prototype  
+- Robo Quiz — Demonstrated analytical thinking under pressure  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravindhan450&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhan450&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 aravinddhan404@gmail.com  
+🔗 linkedin.com/in/aravindhan-boopathy-573948295  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aravindhan450&color=blue" />
+</p>
