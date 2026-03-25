@@ -1,108 +1,104 @@
-# 👋 Hi, I'm Aravindhan B
+# Hi, I'm Aravindhan B
 
-🎓 Computer Science Engineering Student (AI & ML)  
-💡 Passionate about building intelligent systems, scalable web applications, and solving real-world problems with data.
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineering+Student;Building+Intelligent+and+Scalable+Solutions;Open+to+Internships+and+Collaborative+Projects" alt="Typing intro" />
+</p>
 
----
+<p align="center">
+	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U0M2M5Y2RjMjA2ZWE2M2RhMTE1Y2M1YjY5Y2RhNTMxN2I2YzY4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation" />
+</p>
 
-## 🚀 About Me
+<p align="center">
+	<a href="https://github.com/Aravindhan450"><img src="https://img.shields.io/badge/GitHub-Aravindhan450-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+	<a href="https://linkedin.com/in/aravindhan-boopathy-573948295/"><img src="https://img.shields.io/badge/LinkedIn-Aravindhan%20Boopathy-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+	<a href="mailto:aravinddhan404@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-I am a Computer Science (AI & ML) undergraduate at **SRM Institute of Science and Technology** with hands-on experience in machine learning systems and modern web development.  
+## About Me
 
-I enjoy transforming ideas into structured technical implementations and working in collaborative environments to build impactful solutions.
+Computer Science Engineering (AI & ML) undergraduate at SRM Institute of Science and Technology with hands-on experience in machine learning systems and modern web development.
 
-- 🧠 Strong interest in AI-driven product development  
-- ⚙️ Experience in full-stack development and ML pipelines  
-- 📊 Focused on performance optimization and practical system design  
-- 🤝 Comfortable working in fast-paced team environments  
+- Strong interest in AI-driven product development
+- Experience in full-stack development and ML pipelines
+- Focused on performance optimization and practical system design
+- Comfortable working in fast-paced, collaborative environments
 
----
+## Education
 
-## 🎓 Education
+- SRM Institute of Science and Technology
+	- B.Tech, Computer Science Engineering (AI & ML)
+	- CGPA: 9.19
+- Everwin Group of Schools (Matric)
+	- Higher Secondary Certificate: 86%
+	- Secondary School Leaving Certificate: All Pass
 
-**SRM Institute of Science and Technology**  
-B.Tech — Computer Science Engineering (AI & ML)  
-📈 CGPA: **9.19**
+## Technical Skills
 
-**Everwin Group of Schools (Matric)**  
-Higher Secondary Certificate — **86%**  
-Secondary School Leaving Certificate — **All Pass**
+### Languages and Web
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
----
+### Frameworks and Tools
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST-API-005571?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-## 🛠️ Technical Skills
+## Featured Projects
 
-### 🌐 Web Development  
-- HTML  
-- CSS  
-- Sass (SCSS)  
-- JavaScript  
-- React  
+### Air Quality Determination and Weather Prediction
+Tech stack: Python, Pandas, Scikit-learn, APIs
 
-### 🧩 Programming & Backend  
-- Python  
-- REST APIs  
+- Built a machine learning system to predict air quality and weather metrics using structured datasets and live API inputs.
+- Implemented preprocessing, model comparison, and evaluation pipelines to improve prediction accuracy.
 
-### 🤖 Machine Learning  
-- Scikit-learn  
-- Jupyter Notebook  
+### AI Resume Analyzer with LaTeX Editor
 
-### ⚙️ Tools & Platforms  
-- Git & GitHub  
-- Docker  
-- Kubernetes  
+- Built an AI-powered resume analysis platform integrated with a LaTeX editor for real-time content optimization.
+- Designed user-focused workflows and structured logic to improve resume quality and formatting.
 
----
+<p align="center">
+	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ0N2YwN2I5YmM0Y2E2ZWEwY2M3NWE4Mjg4NjQ5NzA4OGQ4YjRmYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="350" alt="Machine learning animation" />
+</p>
 
-## 📌 Projects
+## Internship Experience
 
-### 🌫️ Air Quality Determination & Weather Prediction
-**Tech Stack:** Python, Pandas, Scikit-learn, APIs  
+Prodapt Solutions Pvt Ltd - Delivery Department Intern
+June 11 - July 11, 2025
 
-- Developed a machine learning system to predict air quality and weather metrics using structured datasets and live API inputs.  
-- Implemented data preprocessing, model comparison, and evaluation techniques to improve prediction accuracy.  
-
-### 📄 AI Resume Analyzer with LaTeX Editor  
-
-- Built an AI-powered resume analysis platform integrated with a LaTeX editor for real-time content optimization.  
-- Designed user-focused workflows and structured logic for improving resume quality and formatting.
-
----
-
-## 💼 Internship Experience
-
-**Prodapt Solutions Pvt Ltd — Delivery Department Intern**  
-📅 June 11 – July 11, 2025  
-
-- Collaborated with cross-functional teams to support delivery operations in a dynamic work environment.  
+- Collaborated with cross-functional teams to support delivery operations in a dynamic environment.
 - Demonstrated ownership, adaptability, and effective communication during project coordination.
 
----
+## Achievements
 
-## 🏆 Achievements
+- UI/UX Hackathon: Designed an educational application prototype focused on usability and innovation.
+- Robo Quiz: Demonstrated logical reasoning and decision-making in a competitive timed environment.
 
-- 🎨 UI/UX Hackathon — Designed an educational application prototype emphasizing usability and innovation.  
-- 🤖 Robo Quiz — Showcased logical reasoning and decision-making skills in a competitive timed environment.
+## Certifications
 
----
+- Machine Learning using Python - Simplilearn (SkillUp)
+- Python Programming - Great Learning
+- CSS Certification - HackerRank
+- Problem Solving (Basic) - HackerRank
 
-## 📜 Certifications
+## GitHub Analytics
 
-- Machine Learning using Python — Simplilearn (SkillUp)  
-- Python Programming — Great Learning  
-- CSS Certification — HackerRank  
-- Problem Solving (Basic) — HackerRank  
+<p align="center">
+	<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aravindhan450&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhan450&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
 
----
+## Contact
 
-## 📫 Connect With Me
+- Email: aravinddhan404@gmail.com
+- Phone: 8056226928
+- LinkedIn: https://linkedin.com/in/aravindhan-boopathy-573948295/
+- GitHub: https://github.com/Aravindhan450
 
-📧 Email: **aravinddhan404@gmail.com**  
-📱 Phone: **8056226928**  
-
-🔗 LinkedIn: https://linkedin.com/in/aravindhan-boopathy-573948295/  
-💻 GitHub: https://github.com/Aravindhan450  
-
----
-
-⭐ *Always open to collaboration, internships, and building impactful AI products.*
+Open to internships, collaborations, and AI product-building opportunities.
