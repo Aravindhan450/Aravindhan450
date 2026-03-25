@@ -1,4 +1,4 @@
-# Hi, I'm Aravindhan B
+# Hi, I'm Aravindhan
 
 <p align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineering+Student;Building+Intelligent+and+Scalable+Solutions;Open+to+Internships+and+Collaborative+Projects" alt="Typing intro" />
@@ -10,7 +10,7 @@
 
 <p align="center">
 	<a href="https://linkedin.com/in/aravindhan-boopathy-573948295/"><img src="https://img.shields.io/badge/LinkedIn-Aravindhan%20Boopathy-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-	<a href="mailto:aravinddhan404@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+	<a href="mailto:aravinddhan404@gmail.com"><img src= alt="Email" /></a>
 </p>
 
 ## About Me
