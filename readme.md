@@ -8,15 +8,6 @@
 	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U0M2M5Y2RjMjA2ZWE2M2RhMTE1Y2M1YjY5Y2RhNTMxN2I2YzY4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation" />
 </p>
 
-<p align="center">
-<a href="mailto:aravinddhan404@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
-</a>
-
-<a href="https://linkedin.com/in/aravindhan-boopathy-573948295/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-</a>
-</p>
 
 ## About Me
 
@@ -87,11 +78,26 @@ June 11 - July 11, 2025
 	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhan450&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
 
-## Contact
+## 📬 Contact
 
-- Email: aravinddhan404@gmail.com
-- Phone: 8056226928
-- LinkedIn: https://linkedin.com/in/aravindhan-boopathy-573948295/
-- GitHub: https://github.com/Aravindhan450
+<p align="left">
+
+<a href="mailto:aravinddhan404@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+918056226928">
+  <img src="https://img.shields.io/badge/Phone-Call-blue?style=for-the-badge&logo=googlevoice&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/aravindhan-boopathy-573948295/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aravindhan450">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 Open to internships, collaborations, and AI product-building opportunities.
