@@ -94,9 +94,7 @@ June 11 - July 11, 2025
   <img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=googlevoice&logoColor=white&labelColor=34A853"/>
 </a>
 
-<a href="https://github.com/Aravindhan450">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-</a>
+
 
 </p>
 
